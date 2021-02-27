@@ -1,6 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2578
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+# Assignment 1 - **Defining & Solving RL Environments**
+
+##Part 1 - **Defining RL Environment**
+##Part 2 - **Applying Tabular Methods**
